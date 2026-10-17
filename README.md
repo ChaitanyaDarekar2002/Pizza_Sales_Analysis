@@ -20,5 +20,6 @@ An interactive **Pizza Sales Dashboard** built using Microsoft Power BI to analy
 To analyze pizza sales data, identify popular pizza categories and sizes, and gain insights into sales performance to support better business decisions.
 
 ### 🖼️ Dashboard Preview
-_Add your Pizza Sales Dashboard screenshot here._
+<img width="1348" height="757" alt="image" src="https://github.com/user-attachments/assets/e96f7564-fc71-4db8-b85d-9e0b2d1b10a1" />
+
 
